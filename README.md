@@ -6,3 +6,4 @@ Haloo saya lagi mencoba belajar dan tes kolaborasi di github!
 3. ketiga saya belajar menggunakan pull request
 lalu, saya mencoba belajar di dicoding
 lalu, saya istirahat sejenak
+lau, saya makan mie
